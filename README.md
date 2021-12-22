@@ -33,3 +33,5 @@ checkboxes.forEach((checkbox) => {
   }
 })
 ```
+
+Note: Most probably it is not gonna reset your progress which is showing on header. This hack was for completing/resetting viewed lectures.
